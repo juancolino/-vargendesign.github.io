@@ -1,2 +1,2 @@
-# vargendesign
+# Vargen
 Vargen website
