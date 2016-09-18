@@ -1,2 +1,2 @@
-# vargendesign.github.io
+# vargendesign
 Vargen website
